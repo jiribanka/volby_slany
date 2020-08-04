@@ -1,14 +1,12 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+# Výsledky voleb v Slaném
+Přehledné výsledky voleb ve volebním obvodu Slaný. 
+© Jiří Baňka, KDU-ČSL
 
-![Preview](preview.jpg)
+## Odkazy
+- Mapa: https://jiribanka.github.io/volby_slany/index.html
+- Data: https://docs.google.com/spreadsheets/d/1ns03GjTY5wGT2YnlTRDrt48Su-5m7KN95GJNFfr9Uh0/edit#gid=0
 
-## Live links (replace with your own)
-- Leaflet Map https://jiribanka.github.io/leaflet-maps-with-google-sheets/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1ns03GjTY5wGT2YnlTRDrt48Su-5m7KN95GJNFfr9Uh0/edit#gid=0
 
-## Create your own
-- See video with step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
