@@ -1,10 +1,13 @@
 # Výsledky voleb v Slaném
-Přehledné výsledky voleb ve volebním obvodu Slaný. 
-© Jiří Baňka, KDU-ČSL
+Přehledné výsledky voleb ve volebním obvodu Slaný.
+
+- © Jiří Baňka, KDU-ČSL Slaný
+- [jiribanka.cz](https://jiribanka.cz)
+- [slany.kdu.cz](https://slany.kdu.cz)
 
 ## Odkazy
-- Mapa: https://jiribanka.github.io/volby_slany/index.html
-- Data: https://docs.google.com/spreadsheets/d/1ns03GjTY5wGT2YnlTRDrt48Su-5m7KN95GJNFfr9Uh0/edit#gid=0
+- [Interaktivní mapa](https://jiribanka.github.io/volby_slany/index.html)
+- [Data](https://docs.google.com/spreadsheets/d/1ns03GjTY5wGT2YnlTRDrt48Su-5m7KN95GJNFfr9Uh0/edit#gid=0)
 
 
 
